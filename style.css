@@ -2,6 +2,7 @@ body {
   padding: 20px 0;
   width: 1025px;
   margin: 0 auto;
+  max-width: 100%;
 }
 .box {
   width: 100%;
