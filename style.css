@@ -1,0 +1,25 @@
+body {
+  padding: 20px 0;
+  width: 1025px;
+  margin: 0 auto;
+}
+.box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.box-pink {
+  width: 33%;
+  height: 200px;
+  background-color: pink;
+}
+.box-red {
+  width: 33%;
+  height: 200px;
+  background-color: red;
+}
+.box-green {
+  width: 33%;
+  height: 200px;
+  background-color: green;
+}
