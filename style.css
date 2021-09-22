@@ -1,8 +1,9 @@
 body {
   padding: 20px 0;
-  width: 1025px;
+  width: 100%;
   margin: 0 auto;
   max-width: 100%;
+  box-sizing: border-box;
 }
 .box {
   width: 100%;
@@ -25,9 +26,9 @@ body {
   height: 200px;
   background-color: green;
 }
-.text {
-  /* width: 100%;
-  max-width: 100%; */
+.box-test {
+  /* background-color: orangered;
+  padding-top: 200px !important; */
 }
 /* pc */
 @media only screen and (min-width: 1024px) {
